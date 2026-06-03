@@ -2,7 +2,7 @@
   <h1>Try On Hovered Item</h1>
   <h3>A SimpleTweaks tweak</h3>
   <p>
-    Hover any gear, hold a modifier, right-click = instant try-on.
+    Hover any gear, hold a modifier, right-click = instant try on.
     <br />
     <a href="#install">Install</a> · <a href="#how-it-works">How it works</a> · <a href="#building">Building</a>
   </p>
