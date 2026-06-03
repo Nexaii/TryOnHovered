@@ -1,0 +1,22 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0-windows</TargetFramework>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <LangVersion>latest</LangVersion>
+        <Nullable>enable</Nullable>
+        <NoWarn>CS8618</NoWarn>
+    </PropertyGroup>
+
+    <PropertyGroup>
+        <SimpleTweaksAssembly>$(MSBuildProjectDirectory)\..\..\SimpleTweaksPlugin\bin\Release\SimpleTweaksPlugin.dll</SimpleTweaksAssembly>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="SimpleTweaksPlugin">
+            <HintPath>$(SimpleTweaksAssembly)</HintPath>
+            <Private>false</Private>
+        </Reference>
+    </ItemGroup>
+
+</Project>

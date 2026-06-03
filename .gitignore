@@ -1,0 +1,12 @@
+bin/*
+!bin/Release/
+bin/Release/*
+!bin/Release/TryOnHovered.dll
+obj/
+releases/
+.vs/
+*.user
+*.suo
+packages.lock.json
+*.log
+build*.txt
