@@ -8,9 +8,9 @@
   </p>
 </div>
 
-A small custom tweak for [SimpleTweaksPlugin](https://github.com/Caraxi/SimpleTweaksPlugin). Written at someone's request from the puni.sh discord. It loads as an external tweak. There's a possibility I'll create yet another `"bundle of tweaks"` type of plugin in the future, then simply include this.
+A small custom tweak for [SimpleTweaksPlugin](https://github.com/Caraxi/SimpleTweaksPlugin). Written at someone's request from the puni.sh discord, this loads as an external tweak. I'll possibly create yet another `"bundle of tweaks"` type of plugin in the future and include this.
 
-There's a similar tweak of the same nature that's been in a PR for SimpleTweaks for over 6 months as of writing this. So, I figured I'd write my own to help anyone else out that desires it.
+There's a similar tweak that's been in an open PR for SimpleTweaks for nearly 6 months as of writing this. So, I figured I'd write my own to help anyone out that desires this.
 
 ## Install
 
