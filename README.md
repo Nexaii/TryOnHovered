@@ -45,4 +45,4 @@ Then:
 dotnet build TryOnHovered.csproj -c Release /p:DalamudLibPath=<path-to-dalamud-lib-folder>
 ```
 
-The dll then lands in `bin/Release/TryOnHovered.dll` for to use.
+The dll then lands in `bin/Release/TryOnHovered.dll` for use.
